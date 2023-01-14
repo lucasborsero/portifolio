@@ -15,4 +15,8 @@ Hello, my name is Lucas!
 - Movies and TV Series;
 - Video Games;
 
+# Contact
 
+- Email: lucas.borsero@gmail.com
+- Linkedin: https://www.linkedin.com/in/lucas-borsero/
+- Github: https://github.com/lucasborsero
